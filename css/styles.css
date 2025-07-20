@@ -4,6 +4,12 @@
     color:aliceblue;
 }
 
+h2{
+    border:1px solid #eee;
+    max-width: fit-content;
+    padding: 5px;
+}
+
 .top{
     text-align: center;
     background-color:#101010;
